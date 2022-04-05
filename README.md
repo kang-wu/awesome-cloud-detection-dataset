@@ -1,7 +1,9 @@
 <p align="center">
     <br>
         <img width="800" src="./logo/logo.png" alt="logo of vue-awesome repository">
+    <br>
 </p>
+
 ## Awesome cloud detection dataset ![](https://img.shields.io/badge/license-MIT-green.svg ) 
 > A list of cloud detection dataset
 
