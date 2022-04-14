@@ -11,3 +11,8 @@
 - [SPARCS](http://emapr.ceoas.oregonstate.edu/sparcs/)
 - [Biome](https://landsat.usgs.gov/landsat-8-cloud-cover-assessment-validation-data?msclkid=97441d71b4b611ec83b9d816c63a8916)
 
+### Gaofen series
+- [GF1-WHU](http://sendimage.whu.edu.cn/en/mfc-validation-data/)
+- [AIR-CD](https://github.com/AICyberTeam/AIR-CD)
+
+### Sentinel series
