@@ -16,3 +16,4 @@
 - [AIR-CD](https://github.com/AICyberTeam/AIR-CD)
 
 ### Sentinel series
+- [WHUS2-CD](https://github.com/Neooolee/WHUS2-CD)
